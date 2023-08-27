@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Raeeskhokhar</h1>
-<h3 align="center">I'm interested in Web/Mobile Application Development Using MERN</h3>
+<h1 align="left">Hi 👋, I'm Raeeskhokhar</h1>
+<h3 align="left">I'm interested in Web/Mobile Application Development Using MERN</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
